@@ -1,0 +1,2 @@
+Day3 
+Create a directory -> Put a file inside it -> write data inside it -> read the file -> then delete the directory
